@@ -6,11 +6,11 @@ WEB CRAWLER using PYTHON
 
 [Wikipedia](https://en.wikipedia.org/wiki/Web_crawler)
 
-Through a crawler, you can scrape data from web.
+Through a crawler, you can scrape datas from web.
 
 ## 2. Limitation
 
-It is proceeded without approval, so a lots of web sites are blocking using crawler without permission checking request messages you send or other ways. So If you use the information using crawler commercially, it could be a copyright infringement.   
+It is proceeded without approval, so a lot of web sites are blocking using crawler without permission checking request messages you send or other ways. So If you use the information using crawler commercially, it could be a copyright infringement.   
 
 ## 2. Using Library
 
